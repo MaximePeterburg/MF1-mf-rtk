@@ -1,0 +1,18 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.PageContainer {
+  display: flex;
+  justify-content: center;
+  height: 50vh;
+  align-items: center;
+}
+.Button {
+  font-size: 2rem;
+  background-color: indigo;
+  color: white;
+  font-weight: bold;
+  padding: 0.5rem 1rem;
+  border-radius: 0.25rem;
+}
