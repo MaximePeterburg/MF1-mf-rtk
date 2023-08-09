@@ -47,7 +47,7 @@ module.exports = (_, argv) => ({
       name: 'MF1',
       filename: 'remoteEntry.js',
       remotes: {
-        Shell: 'Shell@http://localhost:3000/remoteEntry.js'
+        Shell: 'Shell@https://maximepeterburg.github.io/Shell-mf-rtk/remoteEntry.js'
       },
       exposes: {},
       shared: {
